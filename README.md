@@ -6,3 +6,4 @@ Desenvolvimento web 2025 Turma N2 Primeiro semestre
 -ler um captulo do livro
 -fazer uma ligacao
 -arrumar o material do trabalho
+git
